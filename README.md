@@ -5,5 +5,5 @@
 - [EDR Lab Using LimaCharlie and Sliver](https://github.com/jsshargel/EDR-Home-Lab-Using-LimaCharlie-and-Sliver)
 - [Active Directory Lab](https://github.com/jsshargel/Active-Directory-Lab)
 - [Over The Wire Walkthrough](https://github.com/jsshargel/OverTheWire)
-- [Networking Fundamentals] (https://github.com/jsshargel/Networking-Fundamentals)
-- [Nessus Vulnerability Managment] 
+- [Networking Fundamentals](https://github.com/jsshargel/Networking-Fundamentals)
+- [Nessus Vulnerability Managment](https://github.com/jsshargel/Nessus-Vulnerability-Management)
